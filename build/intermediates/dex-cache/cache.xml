@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\AudioVideoVideoPlay\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="484482aea0d1a914f64c83f47829793a63190191">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\AudioVideoVideoPlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_04425a76aacb2360b60c8d35b73f024990cd5214\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\AudioVideoVideoPlay\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8b4cc2bc0d42ddb7d9d55e596336b0dfbcacfe9a">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\AudioVideoVideoPlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6afb59ba1b7ec13a98636bb0e419dabd624cbe58\classes.dex" />
+    </item>
+
+</items>
